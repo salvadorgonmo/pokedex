@@ -1,1 +1,1 @@
-This is a repository that will store a pokedex with characteristics about some pokemons.
+This is a repository that will store a pokedex with characteristics about some pokemons and details.
